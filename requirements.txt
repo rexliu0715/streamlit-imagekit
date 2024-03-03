@@ -1,0 +1,5 @@
+streamlit
+pydash
+streamlit-tags
+Pillow
+streamlit-quill
